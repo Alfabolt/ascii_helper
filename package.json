@@ -1,0 +1,19 @@
+{
+  "name": "ascii_helper",
+  "version": "1.0.0",
+  "description": "JS Ascii helper",
+  "main": "ascii.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfabolt/ascii_helper.git"
+  },
+  "keywords": [
+    "ascii"
+  ],
+  "author": "Alfabolt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfabolt/ascii_helper/issues"
+  },
+  "homepage": "https://github.com/Alfabolt/ascii_helper#readme"
+}
