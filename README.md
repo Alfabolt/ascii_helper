@@ -8,7 +8,6 @@
 ```json
 {
 "dependencies": {
-    ...
     "ascii_helper": "https://github.com/Alfabolt/ascii_helper"
 }
 ```
